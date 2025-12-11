@@ -1,4 +1,6 @@
-# Installing Cocogitto on Ubuntu
+# Setup Conditional Commit-Msg Git Hook with Cocogitto
+
+This guide demonstrates how to configure a `commit-msg` Git hook using Cocogitto. This hook will conditionally validate your commit messages, ensuring they adhere to conventional commit standards only when committing to a specified target branch (e.g., `main`). Commit messages on other branches will bypass the validation.
 
 Cocogitto is typically installed on Ubuntu using Rust's package manager, Cargo, as the tool is written in Rust.
 
