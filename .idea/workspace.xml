@@ -5,10 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58a6cd1d-ef8c-4a50-8843-92ea51266230" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/setup-commit-msg-git-hook.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cocogitto-install.md" beforeDir="false" afterPath="$PROJECT_DIR$/cocogitto-install.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1765425767027</updated>
       <workItem from="1765425768353" duration="1308000" />
-      <workItem from="1765427093688" duration="1303000" />
+      <workItem from="1765427093688" duration="2164000" />
+      <workItem from="1765429552839" duration="847000" />
     </task>
     <servers />
   </component>
